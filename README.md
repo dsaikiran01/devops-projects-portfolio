@@ -10,7 +10,6 @@ This repository contains a collection of hands-on **DevOps and AWS projects** de
 * [Project Index](#project-index)
 * [Tools and Technologies](#tools-and-technologies)
 * [How to Use This Repository](#how-to-use-this-repository)
-* [Contact](#contact)
 
 ---
 
