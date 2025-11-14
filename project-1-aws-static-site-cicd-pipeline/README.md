@@ -1,29 +1,28 @@
 # Project-1: AWS Static Site CI/CD Pipeline
 
-![GitHub](https://img.shields.io/badge/source-GitHub-blue?logo=github)
-![AWS](https://img.shields.io/badge/AWS-orange)
-![S3](https://img.shields.io/badge/AWS-S3-yellow)
-![CodeBuild](https://img.shields.io/badge/AWS-CodeBuild-green)
-![CodePipeline](https://img.shields.io/badge/AWS-CodePipeline-orange?logo=amazon-aws)
-![CodeDeploy](https://img.shields.io/badge/AWS-CodeDeploy-red)
-![CloudFront](https://img.shields.io/badge/CDN-CloudFront-yellow)
+![Source: GitHub](https://img.shields.io/badge/Source-GitHub-blue?logo=github)
+![AWS](https://img.shields.io/badge/Cloud-AWS-orange?logo=amazon-aws)
+![S3](https://img.shields.io/badge/Storage-S3-yellow?logo=amazon-s3)
+![CodeBuild](https://img.shields.io/badge/CI-CodeBuild-green?logo=amazon-aws)
+![CodePipeline](https://img.shields.io/badge/CI%2FCD-CodePipeline-orange?logo=amazon-aws)
+![CodeDeploy](https://img.shields.io/badge/Deploy-CodeDeploy-red?logo=amazon-aws)
+![CloudFront](https://img.shields.io/badge/CDN-CloudFront-yellow?logo=amazon-cloudfront)
 
 
-## 📘 Project Title
+## Project Title
 **Automating Static Website Deployment from GitHub to AWS using CodePipeline, CodeBuild, S3, and CloudFront**
 
 
 ## Table of Contents
-- [Overview](#-overview)
-- [Architecture](#-architecture)
-- [AWS Services Used](#-aws-services-used)
-- [Step-by-Step Implementation](#-step-by-step-implementation)
-- [CI/CD in Action](#-cicd-in-action)
-- [Cost Estimation](#-cost-estimation)
-- [Key Takeaways](#-key-takeaways)
-- [Repository](#-repository)
-- [Conclusion](#-conclusion)
-- [Image Placeholders](#-image-placeholders)
+- [Overview](#overview)
+- [Architecture](#architecture)
+- [AWS Services Used](#aws-services-used)
+- [Step-by-Step Implementation](#step-by-step-implementation)
+- [CI/CD in Action](#cicd-in-action)
+- [Cost Estimation](#cost-estimation)
+- [Key Takeaways](#key-takeaways)
+- [Repository](#repository)
+- [Conclusion](#conclusion)
 
 
 ## Overview
@@ -340,12 +339,12 @@ Now whenever a developer **pushes new code to GitHub**:
 
 ## Key Takeaways
 
-* 🚀 Fully automated CI/CD pipeline on AWS
-* 🔄 Continuous integration directly from GitHub
-* 🌍 Global delivery through CloudFront CDN
-* 🔐 HTTPS enabled using ACM
-* 🧱 Security hardened with WAF
-* 🧩 Reusable for production or portfolio projects
+* Fully automated CI/CD pipeline on AWS
+* Continuous integration directly from GitHub
+* Global delivery through CloudFront CDN
+* HTTPS enabled using ACM
+* Security hardened with WAF
+* Reusable for production or portfolio projects
 
 
 ## Repository
@@ -355,7 +354,4 @@ The code used for the project is at the [GitHub Repository – aws-static-site-c
 
 ## Conclusion
 
-This project showcases **end-to-end DevOps automation** using **AWS services** to host and manage a **static web application** with speed, scalability, and security.
-
-
-**If you found this project helpful, give the repo a star! ⭐**
+In This project, we made a **end-to-end DevOps automation** using **AWS services** to host and manage a **static web application** with speed, scalability, and security.
