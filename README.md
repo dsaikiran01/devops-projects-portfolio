@@ -37,6 +37,15 @@ Automated build and deployment pipeline for a sample application using Github an
 
 [Source Code](https://github.com/dsaikiran01/aws-static-site-cicd-pipeline)    
 
+
+### Project-2: CI/CD Pipeline for Web Application deployment using Jenkins
+
+Automated build and deployment pipeline for a sample application using Github, Jenkins, Maven and Tomcat.
+
+[View Docs](./project-2-ci-cd-pipeline-using-jenkins/README.md)
+
+[Source Code](./project-2-ci-cd-pipeline-using-jenkins/source-code/)
+
 ---
 
 ## Tools and Technologies
